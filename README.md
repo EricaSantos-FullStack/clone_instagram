@@ -26,7 +26,12 @@ index.html
 ### ✔ Resultado:
 _____________________
 #### <b> Desktop </b>
-
+![clone-insta](https://user-images.githubusercontent.com/71906862/129298598-f6c2185d-1d95-468e-b9dc-a96d05319247.png)
 
 #### <b> Mobile </b>
+![clone-insta-phone](https://user-images.githubusercontent.com/71906862/129298606-63a8be7b-2e56-43a9-b857-2abb71957c3f.png)
 
+#### <b> Deploy </b>
+https://ericasantos-fullstack.github.io/clone_instagram/
+
+❤
